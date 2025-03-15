@@ -1,0 +1,42 @@
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+}
+body{
+    /* background-image: url(wr2.jpg); */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+    background-color: aquamarine;
+}
+img{
+    width: 300px;
+    height: 150px;
+}
+img.a:hover{
+    box-shadow: 4px 4px 10px red;
+    filter: blur(3px)
+}
+
+img.b:hover{
+    box-shadow: 4px 4px 10px red;
+    filter: grayscale(60%);
+}
+img.c:hover{
+    box-shadow: 4px 4px 10px red;
+    filter:invert()
+}
+img.d:hover{
+    box-shadow: 4px 4px 10px red;
+    filter: grayscale();
+}
+img.e:hover{
+    box-shadow: 4px 4px 10px red;
+    filter: sepia();
+}
+img.f:hover{
+    box-shadow: 4px 4px 10px red;
+    filter: brightness(60%);
+}

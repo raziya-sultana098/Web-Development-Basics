@@ -1,0 +1,33 @@
+#one{
+   color: aquamarine;
+    font-size: larger;
+    font-family: 'Franklin Gothi Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    
+}
+#two
+{
+    color :white;
+    font-size: larger;
+    font-family: 'Franklin Gothi Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+     
+}
+#three
+{
+    color: blue;
+    font-size: larger;
+    font-family: 'Franklin Gothi Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+}
+#four
+{
+    color: white;
+    font-size: larger;
+    font-family: 'Franklin Gothi Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid greenyellow;
+    border-radius: 10%;
+}
+body{
+    background: linear-gradient(red,white);
+}
